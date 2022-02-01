@@ -1,0 +1,4 @@
+PAYLOAD 
+<p>Sorry! We have moved! The new URL is: <a href="https://www.hacker_server.com%22%3Ehttps://www.google.com%3C/a%3E%3C/p%3E
+<p>You will be redirected to the new address in five seconds.</p>
+<p>If you see this message for more than 5 seconds, please click on the link above!</p>
